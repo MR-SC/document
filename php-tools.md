@@ -241,6 +241,9 @@ Auto deploy applications.
 ### PHP HTTP client
 * [Guzzle](http://guzzle.readthedocs.org/en/latest/#)
 
+### PHP Security
+* [Survive The Deep End: PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html)
+
 
 ### Command Line Tool
 
