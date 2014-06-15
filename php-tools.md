@@ -282,4 +282,6 @@ Auto deploy applications.
 * [PHP Coding Standards Fixer](https://github.com/fabpot/PHP-CS-Fixer)
 * [PHP Codesniffer](http://pear.php.net/package/PHP_CodeSniffer/)
 
+### PHP HTTP client
+* [Guzzle](http://guzzle.readthedocs.org/en/latest/#)
 
