@@ -238,6 +238,10 @@ Auto deploy applications.
 * [Faker](https://github.com/fzaninotto/Faker) - Fake data generator
 * [Doctrine Data-Fixtures](https://github.com/doctrine/data-fixtures) - Fake data generator
 
+### PHP HTTP client
+* [Guzzle](http://guzzle.readthedocs.org/en/latest/#)
+
+
 ### Command Line Tool
 
 * [php-cli-tools](https://github.com/jlogsdon/php-cli-tools)
@@ -282,6 +286,4 @@ Auto deploy applications.
 * [PHP Coding Standards Fixer](https://github.com/fabpot/PHP-CS-Fixer)
 * [PHP Codesniffer](http://pear.php.net/package/PHP_CodeSniffer/)
 
-### PHP HTTP client
-* [Guzzle](http://guzzle.readthedocs.org/en/latest/#)
 
