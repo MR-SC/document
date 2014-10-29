@@ -238,6 +238,13 @@ Auto deploy applications.
 * [Faker](https://github.com/fzaninotto/Faker) - Fake data generator
 * [Doctrine Data-Fixtures](https://github.com/doctrine/data-fixtures) - Fake data generator
 
+### PHP HTTP client
+* [Guzzle](http://guzzle.readthedocs.org/en/latest/#)
+
+### PHP Security
+* [Survive The Deep End: PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html)
+
+
 ### Command Line Tool
 
 * [php-cli-tools](https://github.com/jlogsdon/php-cli-tools)
