@@ -20,6 +20,7 @@ Start-up Help Lists
 ### Design
 
 * [tailorbrands](https://www.tailorbrands.com)
+* [奧格設計-設計資源](http://www.ogdesign.tw/resources)
 
 ### 創業補助
 
